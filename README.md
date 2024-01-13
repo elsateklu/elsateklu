@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elsa Teklu.
-- 👀 I’m interested in Cloud Deveops, Cloud development and Infrastructiore. 
-- 🌱 I’m currently learning Cloud Development.
-- 💞️ I’m looking to collaborate on on technologies including AWS, CI/CD,Docker, Kubernates,Microservice, Linux, Websphere, Git.
+- 👀 I’m interested in Cloud DevOps, Cloud development and IT Infrastructure. 
+- 🌱 I’m currently learning AWS Solution Architect-Associate.
+- 💞️ I’m looking to collaborate on on technologies including AWS, CI/CD, Docker, Kubernates, Microservice, Linux, Websphere, Git.
 - 📫 You can reach me eliza.te56@gmail.com.
 
 <!---
